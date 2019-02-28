@@ -1,0 +1,21 @@
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\entwan\Documents\Annee 2018-2019\Doranco\Calculatrice\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\stagiaire\Documents\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
